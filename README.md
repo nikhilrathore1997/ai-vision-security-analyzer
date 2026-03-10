@@ -19,7 +19,9 @@ AI-powered surveillance analysis tool that evaluates CCTV or street images using
 
 ### Test Image
 
-`samples/protest_scene.jpg`
+## Example Surveillance Image
+
+![Test Image](samples/protest_scene.jpg)
 
 ### AI Generated Security Report
 
